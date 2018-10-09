@@ -23,5 +23,8 @@ Easy! ;^)
 
 The following screens indicate what we have in mind to build. They are schematic, indicating required functionality and not appearance. Comments as issues in this repo, or by email or twitter are welcome. Work is commencing, so sooner the better.
 
-<img style="border:0px;" height=225 src="https://raw.githubusercontent.com/WorldHistoricalGazetteer/docs/master/" alt=""/></a>
+<img style="border:0px;" height=400 src="images/contribute__not%20logged%20in.png" alt=""/></a>
+
+<img style="border:0px;" height=400 src="images/contribute__dashboard.png" alt=""/></a>
+
 
