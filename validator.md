@@ -35,6 +35,9 @@ The following screens indicate what we have in mind to build. They are schematic
 ### view/edit dataset
 <img style="border:0px;" height=400 src="images/contribute__%20view_edit%20dataset.png" alt=""/></a>
 
+### initiate reconciliation
+<img style="border:0px;" height=400 src="images/contribute__reconcile.png" alt=""/></a>
+
 ### view reconciliation hits
 <img style="border:0px;" height=400 src="images/contribute__%20view%20hits.png" alt=""/></a>
 
