@@ -12,7 +12,7 @@ One primary goal of the project is to make contributing data a relatively simple
 
 - **Register as a user with contributing privileges**
 - **View/edit datasets in user dashboard**
-- **Upload (add) place data in [Linked Places format]() or CSV**. Data will be validated as complying with those formats, errors reported. In near future annotation data will be accepted.)
+- **Upload (add) place data in [Linked Places format](https://github.com/LinkedPasts/linked-places) or CSV**. Data will be validated as complying with those formats, errors reported. In near future annotation data will be accepted.)
 - **Submit dataset for reconciliation with one or more authority**. Submitted data should have links (matches) to one or more authority sources. These might already be included, but if absent...
 - **Validate hits returned by reconciliation step**...contributors can add them by running our reconciliation scripts, then validating hits returned. Current plans include Getty TGN, DBpedia, GeoNames, and Wikidata. 
 - **When dataset status is ok, submit as contribution**
@@ -21,7 +21,7 @@ One primary goal of the project is to make contributing data a relatively simple
 
 Easy, no?! ;^)
 
-The following screens indicate what we have in mind to build. They are schematic, indicating required functionality and not appearance. Comments as issues in this repo, or by email or twitter are welcome. Work is commencing, so sooner the better.
+The following screens indicate what we have in mind to build. They are schematic, indicating required functionality and not appearance. Comments as issues in this repo (preferred), or by [email](mailto:grossner@pitt.edu) or twitter (@WHGazetteer) are welcome. Work on this is commencing now, so sooner the better.
 
 ### not registered/logged in
 <img style="border:0px;" height=400 src="images/contribute__not%20logged%20in.png" alt=""/></a>
